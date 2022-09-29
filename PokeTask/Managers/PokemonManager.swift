@@ -8,8 +8,6 @@
 import Foundation
 import UIKit
 
-
-
 final class PokemonManager{
     
     static let shared = PokemonManager()
