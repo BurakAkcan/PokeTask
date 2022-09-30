@@ -7,9 +7,6 @@
 
 import UIKit
 
-
-
-
 class CardView: UIView {
     
     //MARK: - Views
