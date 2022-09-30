@@ -23,7 +23,9 @@ You need to have Git, Swift and Xcode installed.
 
 ## Demo
 
-https://user-images.githubusercontent.com/106486885/193208382-4fedc63c-c6ef-43cc-8eb2-96f21b8dc1f4.mp4
+https://user-images.githubusercontent.com/106486885/193209951-b7583090-9fab-4020-911e-1772232f4670.mp4
+
+
 
 
 
