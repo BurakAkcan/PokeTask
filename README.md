@@ -27,3 +27,6 @@ You need to have Git, Swift and Xcode installed.
 
 
 
+![Simulator Screen Recording - iPhone 11 - 2022-09-30 at 08 52 55 (1)](https://user-images.githubusercontent.com/106486885/193202083-3cd0de8d-c054-43bf-bb30-fcd93fc122de.gif)
+
+
