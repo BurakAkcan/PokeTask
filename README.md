@@ -23,7 +23,7 @@ You need to have Git, Swift and Xcode installed.
 
 ## Demo
 
-![Simulator_Screen_Recording_-_iPhone_11_-_2022-09-30_at_08_52_55_AdobeExpress](https://user-images.githubusercontent.com/106486885/193201257-7e15c9a7-648d-4f5e-bddf-9389149663c4.gif)
+![Simulator Screen Recording - iPhone 11 - 2022-09-30 at 08 52 55](https://user-images.githubusercontent.com/106486885/193201633-a4d4c67e-a8db-480b-b348-16777033be1d.gif)
 
 
 
