@@ -19,7 +19,7 @@ You need to have Git, Swift and Xcode installed.
 
 ## API
 
-- Pokemon information is fetched from [PokeAPI](https://pokeapi.co/). 
+- Pokemon information is fetched from [PokeAPI](https://pokeapi.co/)
 
 ## Demo
 
