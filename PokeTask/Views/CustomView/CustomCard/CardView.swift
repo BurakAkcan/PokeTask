@@ -108,7 +108,6 @@ class CardView: UIView {
         pokeHpLabel.text = String(model.hp)
         pokeAttackLabel.text = String(model.attack)
         pokeDefenseLabel.text = String(model.defense)
-        setConsLabelText()
     }
     private func setImage(with id:Int){
         PokemonManager.shared.downloadImage(from: id) { [weak self] (image) in
@@ -144,6 +143,7 @@ class CardView: UIView {
 extension CardView{
     @objc func showPoke(_ notification:NSNotification){
         if let model = notification.userInfo?["sent"] as? PokeViewModel{
+            setConsLabelText()
             set(model: model)
         }
     }
