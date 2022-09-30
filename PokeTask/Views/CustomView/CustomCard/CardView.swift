@@ -41,7 +41,6 @@ class CardView: UIView {
     
         setUpViews()
         applyConstraints()
-        setConsLabelText()
         setHpStackView()
         setDefenseStackView()
         setAttackStackView()
@@ -112,6 +111,7 @@ class CardView: UIView {
         pokeHpLabel.text = String(model.hp)
         pokeAttackLabel.text = String(model.attack)
         pokeDefenseLabel.text = String(model.defense)
+        setConsLabelText()
     }
     private func setImage(with id:Int){
         PokemonManager.shared.downloadImage(from: id) { [weak self] (image) in
