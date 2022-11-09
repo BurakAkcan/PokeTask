@@ -5,7 +5,7 @@ PokeTask Project, made using UIKit with Swift language.
 
 ## Tech and Libraries
 
- - MVVM Architecture
+ - MVC Architecture
  - UI built 100% programmatically
  - Networking with URLSession
  - No third-party libraries
